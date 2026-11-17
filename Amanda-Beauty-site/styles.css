@@ -56,7 +56,6 @@ p{
 }
 
 
-
 .site-header{
     width: 100%;
     background-color: white;
@@ -127,7 +126,7 @@ p{
     font-size: 23px;
 }
 
-/* Botões */
+
 
 .button{
     display: inline-flex;
@@ -142,7 +141,7 @@ p{
 
 .button-dark{
     background-color: var(--berry);
-    color: white;
+    color: rgb(240, 240, 240);
 }
 
 .button-dark:hover{
@@ -160,7 +159,6 @@ p{
     color: var(--berry);
 }
 
-/* Página inicial */
 
 .hero{
     display: grid;
